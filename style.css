@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navabar{
+    height: 8vh;
+    background-color: white;
+}
+.delivered{
+    margin-top: 10%;
+}
+.first p{
+    margin-top: 20px;
+}
+.first button{
+    margin-top: 40px;
+}
+.pi{
+    margin-top: 40px;
+}
+.p{
+    display: flex;
+}
+.home{
+    margin-top: 10%;
+}
+.left{
+    margin-top: 20%;
+}
+.left p{
+    margin-top: 20px;
+}
+.left button{
+    margin-top: 40px;
+}
+.browse{
+    margin-top: 15%;
+}
+.image img{
+    width: 100%;
+}
+.cards{
+    margin-top: 5%;
+}
+.cards img{
+    width: 100%;
+}
+.cardss{
+    margin-top: 2%;
+}
+.cardss img{
+    width: 100%;
+}
+.cardsss{
+    margin-top: 2%;
+}
+.cardsss img{
+    width: 100%;
+}
+.bt{
+    margin-top: 15px;
+    margin-left: 44.5%;
+}
+.online{
+    margin-top: 5%;
+}
+.pic img{
+    width: 100%;
+}
+.store{
+    margin-top: 5%;
+}
+.picture img{
+    width: 100%;
+}
+.two{
+    margin-top: 2%;
+}
+.bir img{
+    width: 100%;
+}
+.ikki img{
+    width: 100%;
+}
+footer{
+    margin-top: 3%;
+}
+footer img{
+    width: 100%;
+}
